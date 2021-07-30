@@ -30,8 +30,8 @@ In order to execute this module you must have a User/Service Account with the fo
 
 ### Example Result from CSV File
 ```
-Project Name	  VPC Name	   Subnet Name	     Subnet IP	         Secondary name	 Secondary IP                      Remark
-[Project Name]	  [VPC Name]	[Subnet Name]	  10.200.180.0/26	   pod;service	    10.200.208.0/22;10.200.151.0/25   
-[Project Name]	  [VPC Name]	[Subnet Name]	  10.200.180.128/26	pod;service	    10.200.212.0/22;10.200.151.128/25
-[Project Name]	  [VPC Name]   [Allocate Name]  10.200.134.0/24                                                      Allocate IP Range 
+Project Name      VPC Name    Subnet Name    Subnet IP      Secondary name    Secondary IP      Remark
+[Project Name]    [VPC Name]     [Subnet Name]     10.200.180.0/26      pod;service    10.200.208.0/22;10.200.151.0/25   
+[Project Name]    [VPC Name]     [Subnet Name]     10.200.180.128/26    pod;service    10.200.212.0/22;10.200.151.128/25
+[Project Name]    [VPC Name]     [Allocate Name]      10.200.134.0/24                  Allocate IP Range 
 ```
