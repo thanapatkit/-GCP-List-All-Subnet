@@ -6,7 +6,7 @@
 Before running the script, please make sure that you have enabled 'Compute Engine API' in your projects.
 
 ## Features
-1. Get information about VPC Network on GCP under your permissions.
+1. Get information about VPC Network includes allocating IP for services private connection on GCP projects under your permissions.
 2. Export as csv file.
 
 ## Least Privilege
