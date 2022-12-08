@@ -30,8 +30,8 @@ In order to execute this module you must have a User/Service Account with the fo
 
 ### Example Result from CSV File
 ```
-Project Name      VPC Name       Subnet Name       Subnet IP            Secondary name    Secondary IP                        Remark
-[Project Name]    [VPC Name]     [Subnet Name]     [IP Address]      [Secondary Name];[Secondary Name]       [IP_Address];[IP_Address]   
-[Project Name]    [VPC Name]     [Subnet Name]     [IP Address]    [Secondary Name];[Secondary Name]       [IP_Address];[IP_Address]
-[Project Name]    [VPC Name]     [Allocate Name]   [IP Address]                                                            Allocate IP Range 
+Project Name      VPC Name       Subnet Name       Subnet IP            Secondary name                          Secondary IP                     Remark
+[Project Name]    [VPC Name]     [Subnet Name]     [IP Address]         [Secondary Name];[Secondary Name]       [IP_Address];[IP_Address]   
+[Project Name]    [VPC Name]     [Subnet Name]     [IP Address]         [Secondary Name];[Secondary Name]       [IP_Address];[IP_Address]
+[Project Name]    [VPC Name]     [Allocate Name]   [IP Address]                                                                                  Allocate IP Range 
 ```
